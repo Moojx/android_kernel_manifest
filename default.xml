@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="aosp" fetch="https://android.googlesource.com/" />
+  <remote  name="aosp" fetch="https://aosp.tuna.tsinghua.edu.cn/" />
   <remote  name="statix"
     fetch="https://github.com/StatiXOS/"
     revision="tm" />
